@@ -1,5 +1,7 @@
 # NotchDeck
 
+[![Deploy to GitHub Pages](https://github.com/rajeevranjanpandey/notchdeck/actions/workflows/pages.yml/badge.svg)](https://github.com/rajeevranjanpandey/notchdeck/actions/workflows/pages.yml) [![Tests](https://img.shields.io/badge/tests-11%2F11%20passing-brightgreen)](tests)
+
 ## Problem
 
 The notch on a MacBook is dead space. Meanwhile, if you use Codex, Claude Code, OpenRouter or paid AI APIs, it is easy to hit a limit or run up a bill without noticing. Every provider shows usage somewhere else, if it shows it at all.
