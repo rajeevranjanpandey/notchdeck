@@ -6,6 +6,10 @@
 
 The notch on a MacBook is dead space. Meanwhile, if you use Codex, Claude Code, OpenRouter or paid AI APIs, it is easy to hit a limit or run up a bill without noticing. Every provider shows usage somewhere else, if it shows it at all.
 
+link :https://notchdeck.pplx.app/#features
+
+<img width="1779" height="994" alt="Screenshot 2026-10-23 at 12 06 23 AM" src="https://github.com/user-attachments/assets/915899db-cefd-4fc4-9430-09954da99594" />
+
 ## Solution
 
 NotchDeck is an independent web rebuild of the notch panel idea from the Top Notch website, plus a new AI usage meter.
